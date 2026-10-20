@@ -1,7 +1,7 @@
 # IT313 React Components and JSX
 
-**Name:** [Your Name]  
-**Section:** [Your Section]
+**Name:** Zild Jan F. Abuga-a
+**Section:** IT2R3
 
 ## Description
 A React Native student roster app that displays student cards with their name, course, units, and conditional Full Load labels.
